@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+.top {
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+nav {
+    background: rgb(205, 195, 195);
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: rgb(53, 49, 49);
+    text-decoration: none;
+    margin: 50px;
+    padding-top: 20px;
+}
+
+nav a:hover {
+
+    text-decoration: u;
+
+}
+
+
+
+
+
+
+
+#Skil ol {
+    padding-left: 20px;
+}
+
+
+table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input,
+textarea {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid black;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background: rgb(54, 50, 50);
+    color: white;
+    border: 2px solid orangered;
+}
+
+footer {
+
+
+    background: #878383;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    margin-top: 30px;
+}
